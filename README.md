@@ -13,3 +13,6 @@ pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
 
+
+To get main Sorce Code mail me at mehtabdawkar68@gmail.com
+
